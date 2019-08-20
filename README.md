@@ -1,11 +1,5 @@
 # About
 
-Just a regular ol' bot that comments on [/r/xkcd](https://reddit.com/r/xkcd)
-which are tagged "LFC". 
+This is a fork of [AreYouSureItsNotSMBC](https://github.com/BlitzKraft/AreYouSureItsNotSMBC/blob/master/bot.py), which I've cleaned up a bit to serve as a template for redditbots in python.
 
-Pretty basic stuff. Nothing too fancy. 
-
-# TODO
-* Deploy to a cloud
-* Create a github page
-
+Although I created this to help future people looking to make a python reddit bot, all credit goes to BlitzKraft.
